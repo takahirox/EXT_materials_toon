@@ -18,7 +18,7 @@ T.B.D.
 
 ## Example screenshot
 
-T.B.D.
+![Example screenshot](./screenshots/screenshot.png)
 
 ## Defining Toon materials
 
