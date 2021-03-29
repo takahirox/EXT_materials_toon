@@ -53,4 +53,4 @@ T.B.D.
 | Property | Type | Description | Requires |
 |:------|:------|:------|:------|
 | `gradientTexture` | `Object` | | No |
-| `outline` | `boolean` | | No |
+| `outline` | `boolean` | | No, default is `false` |
